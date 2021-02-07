@@ -6,7 +6,9 @@ Login Panel
 Automated mail sending
 Adding contact information
 
+UPGRADER Members:
 Hande Karaça - Muhammed Can Göçek - Yaren Nur Solmaz - Muharrem Candan
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
